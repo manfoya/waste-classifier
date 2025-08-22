@@ -1,0 +1,40 @@
+# --------- Python ---------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --------- Jupyter ---------
+.ipynb_checkpoints/
+
+# --------- Environnement virtuel ---------
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# --------- Données ---------
+data/raw/
+data/processed/
+data/augmented/
+*.h5
+*.pt
+*.ckpt
+
+# --------- Logs et fichiers temporaires ---------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --------- IDEs ---------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --------- OS ---------
+.DS_Store
+Thumbs.db

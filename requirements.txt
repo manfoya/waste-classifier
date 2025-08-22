@@ -1,0 +1,23 @@
+# Deep Learning
+tensorflow==2.15.0
+
+# Traitement d'images
+opencv-python
+Pillow
+
+# Data science
+numpy
+pandas
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+
+# API
+fastapi
+uvicorn
+
+# Jupyter Notebook
+notebook
+jupyter
