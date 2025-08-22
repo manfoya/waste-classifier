@@ -1,6 +1,6 @@
 # Waste Classifier
 
-## Descroption
+## Description
 Ce projet a pour but de développer un système de classification automatique des déchets basé sur la vision par ordinateur. Utilisant des techniques de Deep Learning, le modèle est entraîné pour identifier la nature d'un déchet (plastique, verre, métal, carton, papier, etc.) à partir d'une image. L'objectif final est de fournir un module intelligent, prêt à être intégré dans un robot de tri automatisé pour améliorer l'efficacité et la rapidité du recyclage.
 
 ## Table des matières
